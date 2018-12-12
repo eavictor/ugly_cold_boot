@@ -3,7 +3,7 @@
 ### Warning: DO NOT touch KeyBoard & Mouse while running
 
 ### How to Use:
-1. Setup auto boot in BIOS
+1. Setup boot schedule in BIOS
 
 Note: usually locate at `power management` section
 
