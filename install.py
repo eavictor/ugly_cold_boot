@@ -14,7 +14,7 @@ STARTUP_FOLDER = os.path.join(os.environ.get('USERPROFILE', None),
 commands = [
     '@echo off\n',
     ' '.join(['explorer.exe', BASE_DIR, '\n']),
-    ' '.join(['cd', BASE_DIR]),
+    ' '.join(['cd', BASE_DIR, '\n']),
     'autostart.exe'
 ]
 
