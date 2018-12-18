@@ -7,11 +7,13 @@
 
 Note: usually locate at `power management` section
 
-2. Copy this folder to target system (no specific folder)
+2. Copy this folder to target system (no specific path)
 
-3. Double click `install.exe` to generate auto shutdown trigger
+3. Set timezone to UTC
 
-4. Reboot manually
+4. Double click `install.exe` to generate auto shutdown trigger
+
+5. Reboot manually (just this time)
 
 ### How to Uninstall:
 1. Close cmd window when pop up
