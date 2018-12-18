@@ -3,7 +3,7 @@
 ### Warning: DO NOT touch KeyBoard & Mouse while running
 
 ### How to Use:
-1. Setup boot schedule in BIOS
+1. Setup boot schedule in BIOS to 12:00 AM (00:00 in 24hr format)
 
 Note: usually locate at `power management` section
 
